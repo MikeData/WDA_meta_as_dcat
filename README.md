@@ -3,7 +3,7 @@
 Quick experiment to push some of the data from datasetDetails from the WDA API into a DCAT shaped json file, as per recommendations on:
 http://guidance.data.gov.uk/dcat_fields.html
 
-This repo includes a zip file with some 80-odd "WDA as dcat" files, which while far from exhaustive is enough for now (the script in this repo would need considerable work to capture ALL datasets in this way, its kindas rough). 
+This repo includes a zip file with some 80-odd "WDA as dcat" files, which while far from exhaustive is enough for now (the script in this repo is basic would need considerable work to capture ALL datasets in this way, it gets complicated). 
 
 You can view any of the new files with a json viewer like this one:
 http://jsoneditoronline.org/
