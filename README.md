@@ -17,7 +17,7 @@ A lot of assumptions and choices had to made and are detailed below, broken down
 I've just used the english name.
 
 ## description
-taken as-is, some cleaning of rogue html tags
+taken as-is from refMetadata, some cleaning of rogue html tags
 
 ## identifier
 used WDA id. should be a URI but we dont have one. There's a case for using the data explorer dataset details page but
