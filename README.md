@@ -23,8 +23,8 @@ taken as-is, some cleaning of rogue html tags
 used WDA id. should be a URI but we dont have one. There's a case for using the data explorer dataset details page but
 it's in multiple other fields already so seemed redundant.
 
-##license
-used OGL url. http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/
+## license
+used OGL url. http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
 ## keyword
 cant find any on the API and data explorer pages dont have a traditional meta tag.
