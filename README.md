@@ -63,7 +63,7 @@ no data.
 
 
 ## temporal
-If needed we could possibly derive this from querying the "time" dimension via the API. It's not included anyone as it's own meta-style item though.
+If needed we could possibly derive this from querying the "time" dimension via the API. It's not included anywhere as it's own meta-style item though.
 
 ## spatial
 this is recommended as expressed in terms of co-ordinates but we tend to use pre-determined hierachies
