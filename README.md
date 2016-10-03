@@ -9,7 +9,7 @@ http://guidance.data.gov.uk/dcat_fields.html
 I've just used the english name.
 
 ## description
-taken as-is, some cleaning of rogue <p> and </p> tags
+taken as-is, some cleaning of rogue tml tags
 
 ## identifier
 used WDA id. should be a URI but we dont have one. There's a case for using the data explorer dataset details page but
@@ -34,6 +34,7 @@ us, general info email
 ## distribution
 In a WDA context distribution and landingPage would seem to be something like:
 distribution - http://web.ons.gov.uk/ons/data/dataset-finder/-/q/datasetView/Census/AF001EW?p_auth=8CXFEJzi&p_p_auth=fexqU0F3&p_p_lifecycle=1&_FOFlow1_WAR_FOFlow1portlet_geoTypeId=2011STATH&_FOFlow1_WAR_FOFlow1portlet_UUID=0
+
 landingPage - http://web.ons.gov.uk/ons/data/dataset-finder/-/q/dcDetails/Census/AF001EW?p_auth=Fm6vhNuc&p_p_lifecycle=1&_FOFlow1_WAR_FOFlow1portlet_dataset_navigation=datasetCollectionDetails
 BUT some dataset are too large to view directly without slicing, so err'd on the side of caution and used details page both times.
 
