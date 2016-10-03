@@ -8,7 +8,9 @@ This repo includes a zip file with some 80-odd "WDA as dcat" files, which while 
 You can view any of the new files with a json viewer like this one:
 http://jsoneditoronline.org/
 
-A lot of assumptions and choices had to made and are detailed below:
+A lot of assumptions and choices had to made and are detailed below, broken down per field:
+
+
 
 
 ## title
