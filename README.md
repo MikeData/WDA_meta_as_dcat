@@ -36,6 +36,7 @@ In a WDA context distribution and landingPage would seem to be something like:
 distribution - http://web.ons.gov.uk/ons/data/dataset-finder/-/q/datasetView/Census/AF001EW?p_auth=8CXFEJzi&p_p_auth=fexqU0F3&p_p_lifecycle=1&_FOFlow1_WAR_FOFlow1portlet_geoTypeId=2011STATH&_FOFlow1_WAR_FOFlow1portlet_UUID=0
 
 landingPage - http://web.ons.gov.uk/ons/data/dataset-finder/-/q/dcDetails/Census/AF001EW?p_auth=Fm6vhNuc&p_p_lifecycle=1&_FOFlow1_WAR_FOFlow1portlet_dataset_navigation=datasetCollectionDetails
+
 BUT some dataset are too large to view directly without slicing, so err'd on the side of caution and used details page both times.
 
 ## landingPage
@@ -49,17 +50,15 @@ English. I've used the url suggested by data.gov which appears to from an americ
 http://id.loc.gov/vocabulary/iso639-1/en
 They seem unlikely to detail welsh.
 
-frequency
+## frequency
 no data.
 
 
-temporal
+## temporal
 You could possibly derive this from querying the "time" dimension via the API but it gets complicated.
 
-spatial
+## spatial
 this is recommended as expressed in terms of co-ordinates but we tend to use pre-determined hierachies
-so went with hierqrchy name, ive used either "geoitemlabel" or the name from "geoCoverage" (which one is present varies between datasets).
-They dont all have geography so this may also come up blank.
+so went with hierqrchy name, ive used either "geoitemlabel" or the name from "geoCoverage" (which one is present varies between datasets).They dont all have geography so this may also come up blank.
 
-theme
-no data.
+
